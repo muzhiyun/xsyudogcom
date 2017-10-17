@@ -14,3 +14,7 @@ python python3.py
 
 
 ②QPython编译器
+直接将脚本文件放在sd卡根目录下的qpython/scripts3文件夹下，这个文件夹下主要存放程序的例程。然后打开软件，在首页点击程序找到对应的脚本，选择RUN即可。
+
+
+当然，这一切都基于你设置好了server ip和username 以及password，这三个数值分别对应认证服务器的ip地址，你的用户名及密码。
