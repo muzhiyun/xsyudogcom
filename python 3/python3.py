@@ -13,7 +13,7 @@ import binascii
 # CONFIG
 server = "192.168.255.249"
 username = "201605020118"
-password = "19970507"
+password = "******"
 host_name = "LIYUANYUAN"
 host_os = "8089D"
 host_ip = "10.30.22.17"
